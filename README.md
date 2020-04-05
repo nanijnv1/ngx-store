@@ -20,11 +20,12 @@ This library adds decorators that make it super easy to *automagically* save and
     + Angular AoT compiler
     + `angular2-localstorage`
     + [nativescript-localstorage](https://github.com/NathanaelA/nativescript-localstorage)
-    + Angular v2, 4 and 5
+    + Angular v2, 4, 5, 6, 7, 8 and 9
     + your own project!
 - Tests coverage
 
 ## CHANGELOG
+#### v9.0.X - support for Angular 9 & TypeScript 3
 #### v2.1.0 - support for Angular 7 & TypeScript 3
 #### v2.0.0 - support for Angular 6 (RxJS v6)
 #### v1.4.x
