@@ -1,5 +1,7 @@
 # Angular Storage
 ### Decorators and services for cookies, session- and localStorage
+This library originally belongs to https://github.com/zoomsphere/ngx-store which is not compatible with angular 9, So forked and updated changes according angular 9 IVY and published
+
 This library adds decorators that make it super easy to *automagically* save and restore variables using HTML5's `localStorage` and `sessionStorage`. It also provides Angular-Injectable Session- and LocalStorageService.
 
 
